@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Home Tracker",
+    "slug": "home-tracker",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "android": {
+      "package": "com.sk.ht"
+    }
+  }
+}
